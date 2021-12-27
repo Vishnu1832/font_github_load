@@ -1,0 +1,35 @@
+.heading
+{
+    font-size:25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px black;
+    font-family: 'Lobster', cursive;
+}
+.note
+{
+    font-size: 16px;
+    color:orange;
+    font-family: 'Anton', sans-serif;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    text-align:center;
+    background-color:pink;
+    font-family: 'Comforter', cursive;
+    font-size:25px;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5x 5px grey;
+}
+#text_input
+{
+    color:black;
+}
